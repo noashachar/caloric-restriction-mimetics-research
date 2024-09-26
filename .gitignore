@@ -1,0 +1,4 @@
+.DS_Store
+*.pt
+__pycache__
+Research-Data
